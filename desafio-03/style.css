@@ -1,0 +1,33 @@
+.inicio {
+	background-color: red;
+}
+.inicio #conteudo {
+	background-color: blue;
+	padding: 50px 50px 100px 50px;
+}
+.inicio #conteudo #texto{
+	background-color: green;
+	float:left; 
+    width: 50%;
+}
+.inicio #conteudo #imagem{
+	background-color: grey;
+	float:left; 
+    width: 50%;
+}
+.cards {
+	background-color: 
+}
+.cards #conteudo {
+	background-color: red;
+	padding: 50px 50px 100px 50px;
+}
+.cards #conteudo #card p{
+	background-color: grey;
+	float:left; 
+    width: 33%;
+    display: inline;
+}
+.contato #formulario{
+	background-color: yellow;
+}
